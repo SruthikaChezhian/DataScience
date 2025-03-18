@@ -1,2 +1,2 @@
 # DataScience
-Data Science - CLoud and Digital
+Data Science - Cloud and Digital
