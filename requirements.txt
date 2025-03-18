@@ -1,0 +1,6 @@
+transformers
+bs4
+requests
+gradio
+torch
+ipykernel
